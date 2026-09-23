@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lingnanhuixi.com/sitemap.xml
